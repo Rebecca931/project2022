@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-color: #FFE4E1;
+}
+
+input {
+    font-family: Georgia, serif;
+    background-color: #FA8072; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+  
+input {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #FA8072;
+}
+  
+input:hover {
+    background-color: #FA8072;
+    color: white;
+}

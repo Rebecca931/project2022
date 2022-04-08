@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    font-size: 25px;
+    background-color:#FEDFE1;
+}
+
+li{
+    text-align: left;
+    font-size: 40px;
+}
+
+
+input {
+    display: inline-block;
+    padding: 15px 15px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: rgb(255, 188, 71);
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px rgb(216, 170, 170);
+  }
+  
+input:hover {background-color: rgba(255, 153, 77, 1)}
+  
+input:active {
+    background-color: rgba(255, 153, 77, 1);
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+img{
+  float: center;
+  width: 33%;
+  /* filter: grayscale(100%); */
+}

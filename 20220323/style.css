@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: rgba(104, 201, 182, 0.6);
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+h2{
+    height: 32px;
+    font-size:medium;
+}
+
+#playButton {
+    background-color: rgb(255, 99, 71);
+    border: none;
+    color: white;
+    padding: 16px 30px;
+    text-align: center;
+    font-size: 18px;
+    margin: 4px 2px;
+    opacity: 0.6;
+    transition: 0.8s;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 15px;
+    font-family: Copperplate, Papyrus, fantasy;
+  }
+  
+#playButton:hover {opacity: 1}
